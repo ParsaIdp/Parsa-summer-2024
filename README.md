@@ -1,6 +1,6 @@
 # Parsa Summer 2024
 
-## LyRL Project Overview
+## My work in LyRL
 
 ### 1. **BPAC.py**
 - **Purpose**: Implements the method outlined in the referenced paper to compute PAC-Bayes bounds.
