@@ -2,7 +2,7 @@
 
 ## My work in LyRL
 
-### 1. **BPAC.py**
+### 1. **bpac.py**
 - **Purpose**: Implements the method outlined in the referenced paper to compute PAC-Bayes bounds.
 - **Model**: Applies to a 2-layer fully connected neural network.
 - **Dataset**: Trained on the MNIST dataset.
