@@ -10,3 +10,8 @@
 ### 2. **model.py**
 - **Purpose**: Trains a 2-layer fully connected neural network.
 - **Dataset**: Trained on the MNIST dataset.
+
+
+### 2. **kfac.py**
+- **Purpose**: Implements the results of the paper [does the data induce capacity control in deep learning](https://arxiv.org/abs/2110.14163).
+- **Dataset**: Trained on the MNIST dataset.
